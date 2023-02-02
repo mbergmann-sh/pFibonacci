@@ -1,0 +1,21 @@
+﻿
+; Language File
+[Info]
+Program = PureBasic_Compilation0.exe
+Version = 1.00
+
+[TOOLTIP]
+WINDOW_0_SPIN_START = Wo anfangen?
+WINDOW_0_SPIN_MAX = Wie viele Iterationen?
+WINDOW_0_CONT_1 = Eingabe Parameter für Fibonacci-Zahlen Berechnung
+
+[INTERFACE]
+WINDOW_0_TXT_1 = F(n) von
+WINDOW_0_TXT_2 = bis
+WINDOW_0_BTN_CLEAR_1 = Vorgaben
+WINDOW_0_BTN_CALCULATE_1 = Berechnen
+
+[STATUSBAR]
+CENTER = Center
+STATUSBAR = StatusBar
+RIGHT = Right
